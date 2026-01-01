@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+openpyxl
+plotly
+gradio
+
+
