@@ -18,3 +18,4 @@ __pycache__/
 
 # Excel temp files
 ~$*.xlsx
+token github.txt
