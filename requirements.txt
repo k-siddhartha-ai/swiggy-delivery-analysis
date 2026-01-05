@@ -1,10 +1,9 @@
-pandas
+gradio>=4.0
+pandas>=1.5
 numpy
-seaborn
 matplotlib
+seaborn
+plotly
 scipy
 openpyxl
-plotly
-gradio
-
-
+huggingface_hub>=0.20
