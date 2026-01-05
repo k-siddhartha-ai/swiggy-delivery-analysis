@@ -19,3 +19,10 @@ __pycache__/
 # Excel temp files
 ~$*.xlsx
 token github.txt
+
+# Logs
+*.log
+
+# Local env files
+.env
+
